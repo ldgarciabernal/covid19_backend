@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=covid19_backend
+POSTGRES_USER=xedrIjcOsHgEFuvRWLYeEYkcULgqzEvF
+POSTGRES_PASSWORD=15PV08h4hDDtZxyqHp4GnqDGuJ0lTRrwrw1l4g44qEBWRL0uhgfYUtxegNVS0ZHG
